@@ -19,9 +19,9 @@ When you have the the resource just follow the steps.
 
 # Contact
 
-- Discord: Joesvart#0001
-- Twitter: @joesvart
-- Telegram: @joesvart
+ - Discord: Joesvart#0001
+ - Twitter: @joesvart
+ - Telegram: @joesvart
 
 
 
