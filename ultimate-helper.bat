@@ -8,7 +8,7 @@ ren %%a\options\other1.xml other.xml
 )
 )
 
-REM Delete registry key and jetbrains folder (not sure if needet but however)
+REM Delete registry key and jetbrains folder (not sure if needed but however)
 reg delete "HKEY_CURRENT_USER\Software\JavaSoft" /f
 
 REM Send a js alert to send a message saying the licence has been restore and giving credits.
