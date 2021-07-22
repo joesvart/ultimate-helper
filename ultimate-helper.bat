@@ -11,4 +11,6 @@ ren %%a\options\other1.xml other.xml
 REM Delete registry key and jetbrains folder (not sure if needet but however)
 reg delete "HKEY_CURRENT_USER\Software\JavaSoft" /f
 
+mshta "javascript:alert(' Your jetbrains licence has been restored. \n\n Thank you for using Ultimate Helper! \n This program has been developed by Joesvart.');close()"
+
 PAUSE
