@@ -1,4 +1,4 @@
-<img src= "https://i.imgur.com/LImREQV.png" align="left"> 
+<img src= "https://i.imgur.com/1K7r5CA.png" align="left"> 
 
 # About
 Ultimate Helper is a simple 'extension' to restore every licence of JetBrains and could have free licence for **EVER**!
