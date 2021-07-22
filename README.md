@@ -17,12 +17,5 @@ When you have the the resource just follow the steps.
  4. A alert will appear (telling you the credits), then you just close that alert and push any key of you keyboard to close the terminal
  5. And that's all! You have JetBrain products for ever!
 
-# Contact
-
- - Discord: Joesvart#0001
- - Twitter: @joesvart
- - Telegram: @joesvart
-
-
 
  
